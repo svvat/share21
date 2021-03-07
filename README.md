@@ -1,6 +1,7 @@
 ## Description
 
-This is a prototype React / Typescript application with material ui 
+This is a prototype React / Typescript application with material ui. Due to time constrainsts it wasnt completed. As I am 
+more a back end developer than front end, it may appear clumsy. 
 
 ### Functionality Included
 
@@ -12,6 +13,18 @@ This is a prototype React / Typescript application with material ui
 6 Edit will permit editing of the profile data and will show a Save button. The Save button is disabled until a change is mage
 
 The application does not save the data.
+
+### Instructions
+
+npm install
+npm run build
+npm run start
+
+to run in debug from vs code
+
+npm start
+Run debug profile "Launch Chrome against localhost"
+
 
 
 
