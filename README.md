@@ -19,13 +19,13 @@ more a back end developer than front end, it may appear clumsy.
 
 ## Instructions
 
-npm install
-npm run build
-npm run start
+`npm install`
+`npm run build`
+`npm run start`
 
 to run in debug from vs code
 
-npm start
+`npm start`
 Run debug profile "Launch Chrome against localhost"
 
 
