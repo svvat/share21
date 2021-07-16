@@ -3,8 +3,7 @@
 
 ## Description
 
-This is a prototype React / Typescript application with material ui. Due to time constrainsts it wasnt completed. As I am 
-more a back end developer than front end, it may appear clumsy. 
+This is a prototype React / Typescript application with material ui. It was done with time constrainst, so is incomplete. 
 
 ## Functionality Included
 
